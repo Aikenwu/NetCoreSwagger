@@ -1,0 +1,15 @@
+H:\project\src\NetCoreSwagger\NetCoreSwaggerDemo\bin\Debug\netcoreapp2.1\NetCoreSwaggerDemo.deps.json
+H:\project\src\NetCoreSwagger\NetCoreSwaggerDemo\bin\Debug\netcoreapp2.1\NetCoreSwaggerDemo.runtimeconfig.json
+H:\project\src\NetCoreSwagger\NetCoreSwaggerDemo\bin\Debug\netcoreapp2.1\NetCoreSwaggerDemo.runtimeconfig.dev.json
+H:\project\src\NetCoreSwagger\NetCoreSwaggerDemo\bin\Debug\netcoreapp2.1\NetCoreSwaggerDemo.dll
+H:\project\src\NetCoreSwagger\NetCoreSwaggerDemo\bin\Debug\netcoreapp2.1\NetCoreSwaggerDemo.pdb
+H:\project\src\NetCoreSwagger\NetCoreSwaggerDemo\obj\Debug\netcoreapp2.1\NetCoreSwaggerDemo.csprojAssemblyReference.cache
+H:\project\src\NetCoreSwagger\NetCoreSwaggerDemo\obj\Debug\netcoreapp2.1\NetCoreSwaggerDemo.csproj.CoreCompileInputs.cache
+H:\project\src\NetCoreSwagger\NetCoreSwaggerDemo\obj\Debug\netcoreapp2.1\NetCoreSwaggerDemo.RazorAssemblyInfo.cache
+H:\project\src\NetCoreSwagger\NetCoreSwaggerDemo\obj\Debug\netcoreapp2.1\NetCoreSwaggerDemo.RazorAssemblyInfo.cs
+H:\project\src\NetCoreSwagger\NetCoreSwaggerDemo\obj\Debug\netcoreapp2.1\NetCoreSwaggerDemo.AssemblyInfoInputs.cache
+H:\project\src\NetCoreSwagger\NetCoreSwaggerDemo\obj\Debug\netcoreapp2.1\NetCoreSwaggerDemo.AssemblyInfo.cs
+H:\project\src\NetCoreSwagger\NetCoreSwaggerDemo\obj\Debug\netcoreapp2.1\NetCoreSwaggerDemo.RazorTargetAssemblyInfo.cache
+H:\project\src\NetCoreSwagger\NetCoreSwaggerDemo\obj\Debug\netcoreapp2.1\NetCoreSwaggerDemo.dll
+H:\project\src\NetCoreSwagger\NetCoreSwaggerDemo\obj\Debug\netcoreapp2.1\NetCoreSwaggerDemo.pdb
+H:\project\src\NetCoreSwagger\NetCoreSwaggerDemo\bin\Debug\netcoreapp2.1\NetCoreSwaggerDemo.xml

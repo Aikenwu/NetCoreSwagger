@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NetCoreSwaggerDemo</name>
+    </assembly>
+    <members>
+        <member name="M:NetCoreSwaggerDemo.Controllers.ValuesController.Get(System.Int32)">
+            <summary>
+            Request Values by Id
+            </summary>
+            <remarks>
+            Example:
+            Get api/values/123
+            </remarks>
+            <param name="id">request id</param>
+            <returns>values match id</returns>
+            <response code="201">empty value</response>
+            <response code="400">id is null</response>
+        </member>
+    </members>
+</doc>
